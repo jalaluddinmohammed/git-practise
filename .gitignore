@@ -2,4 +2,4 @@
 
 terraform.tfvars
 
-terraform-aks-deployment/variables.tf
+terraform-aks-deployment/*
